@@ -1,4 +1,4 @@
-# phishing-extension
+# cyber security collection
 Project for mostly college apps, simple phishing prevention extension on Google Chrome.
 
 To install, first download the ZIP file:
